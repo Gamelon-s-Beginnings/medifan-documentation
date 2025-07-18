@@ -8,19 +8,19 @@ Vous pouvez retrouver le document original en français et en anglais à [cet en
 
 
 
-## Concept
+## Concept : un city-planner, version anime
 
-En tant que city-builder, ou city-planner - terme préféré pour Medifan, du fait de large variété des développements possible pour la ville, en fonction des désirs du joueur - le but principal de Medifan est donc de créer et développer un village, afin qu'il devienne une ville d'importance capitale, voire une capitale, pour la nation dans laquelle il se situe.
+Pour Medifan, plutôt que d'employer le terme de city-builder, nous préférerons utiliser le terme de city-planner. Le concept du jeu étant de proposer au joueur de créer et développer un village d'une infinité de façons différentes, le choix de ce terme met mieux en avant l'idée que les villes qui en découleront seront le fruit d'efforts organisés avec un objectif précis. Ainsi, il n'est pas question d'une "stratégie gagnante", mais de savoir quelle stratégie mettre au point et suivre pour arriver au résultat souhaité ; soit-ce une cité commerciale favorisée par un port d'importance nationale, ou encore un terrain fertile pour les mages spécialisées dans la magie taboue.
 
-Pour insister sur cette variété d'évolution, la première version du jeu prévoit déjà de mettre l'accent sur la présence d'un grand nombre d'actions possibles, sur un large panel de sujets. En fait, Medifan prévoit dès le départ une gestion extrêment fine de la ville, et une emphase sur le micro-management. D'ailleurs, pour continuer d'aller en ce sens, le jeu ne pourra pas être mis en pause (sauf accès au menu), mais la vitesse d'écoulement du temps pourra varier, descendant jusqu'au temps réel.
+Incarnant la représentation du maire, le joueur est libre de modeler la ville à son image et de prendre des décisions au nom de tous les habitants et futurs résidents. Dès la première version, Medifan prévoit d'implémenter une gestion extrêmement fine de la ville - jusqu'à l'attribution des résidences pour les nouveaux arrivants. Bien sûr, pours les joueurs qui souhaitent avancer plus rapidement, un système de déléguation de responsabilité aux habitants est aussi prévu. Aussi, la gestion de la ville se fera au moins en temps réel, sans possibilité de pauser complètement le jeu hors des menus, et le temps pourra être accéléré pour passer plus rapidement les moments creux.
 
-Un des éléments clé du concept de Medifan est le fait d'explorer, de façon concrète pour le joueur, comment une ville de leur anime favori pourrait se créer et se développer au fil du temps. Dans ce sens, de nombreux concepts, liés aux différents univers d'anime et de jeux vidéo, entrent en compte dans la gestion de la ville. C'est notamment le cas de la présence d'aventuriers, avec guildes, de donjons, et événements qui y sont assimilés.
+Un des éléments clé du concept de Medifan est le fait d'explorer, de façon concrète pour le joueur, comment une ville de leur anime favori pourrait se créer et se développer au fil du temps. Dans ce sens, de nombreux concepts, liés aux différents univers d'anime et de jeux vidéo, entrent en compte dans la gestion de la ville. C'est notamment le cas de la présence d'aventuriers, de guildes, de donjons, et d'événements qui y sont assimilés.
 
-Medifan propose ainsi une vision de comment ces différents éléments viennent impacter la gestion de la ville, et apporte un peu de piment dans une genre déjà représenté par de nombreux et très bons jeux.  
+Medifan propose ainsi une vision de comment ces différents éléments viennent impacter la gestion de la ville, et apporte un peu de piment dans une genre déjà représenté par de nombreux et très bons jeux. Les mécaniques de Medifan peuvent êtres utilisées à travers différents leviers, ce qui permet d'éviter de cadrer la progression du joueur, et de lui laisser choisir ce qu'il appelle "progression". En définitive, malgré la présence de nombreuses mécaniques, le challenge pour le joueur n'est pas de réussir à avoir une ville fonctionnelle, mais plutôt de réfléchir à l'utilisation à faire des différentes mécaniques pour construire **sa** ville.
 
-
-
+<details><summary><i><small>Brouillon</small></i></summary>
 => Insister sur le fait que la progression est le choix de l'utilisateur, et que donc les différentes mécaniques peuvent être influencées de beaucoup de manières différentes, notamment en fonction de ce que le joueur préfère faire (large possibilité de gameplay). Exemple : le plein emploi rend les habitants heureux, mais la décoration des rues et maisons également. La présence d'une garde forte ou d'aventuriers nombreux renforce aussi cela ; en gros, on peut facilement atteindre, voire dépasser le quota "max" de chaque mécanique, ce qui permet le développement de la ville de plein de manières différentes.
+</details>
 
 ### Game pillars
 => Repris essentiellement de Paradox Interactive:
